@@ -48,12 +48,86 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/shapes.kit" : {
+    "\/design\/launch.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/launch.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/rocket.sketch" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/design\/rocket.sketch",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg-container.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/shapes.html",
+      "oAP" : "\/dev\/content\/svg-container.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/background.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/background.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/red-mtn.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/red-mtn.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/moon.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/moon.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -77,17 +151,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 4,
+      "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oAP" : "\/dev\/js\/scripts-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
@@ -231,7 +305,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_shapes.scss" : {
+    "\/dev\/scss\/sections\/_svg-container.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -239,7 +313,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_shapes.css",
+      "oAP" : "\/dev\/scss\/sections\/_svg-container.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -253,8 +327,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
