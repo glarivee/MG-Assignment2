@@ -48,6 +48,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/design\/cow.sketch" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/design\/cow.sketch",
+      "oF" : 0
+    },
     "\/design\/launch.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -57,14 +65,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/design\/rocket.sketch" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/design\/rocket.sketch",
-      "oF" : 0
     },
     "\/dev\/content\/svg-container.kit" : {
       "cB" : 0,
