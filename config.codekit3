@@ -87,11 +87,11 @@
       "oAP" : "\/design\/cow.sketch",
       "oF" : 0
     },
-    "\/design\/MotionGraphics-Assignment2.svg" : {
+    "\/design\/MotionGraphics.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/design\/MotionGraphics-Assignment2.svg",
+      "oAP" : "\/design\/MotionGraphics.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -113,36 +113,52 @@
       "oAP" : "\/dev\/content\/svg\/Background.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/Cow.kit" : {
+    "\/dev\/content\/svg\/BackgroundMoon.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/Cow.html",
+      "oAP" : "\/dev\/content\/svg\/BackgroundMoon.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/Foreground.kit" : {
+    "\/dev\/content\/svg\/CowJetPack.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/Foreground.html",
+      "oAP" : "\/dev\/content\/svg\/CowJetPack.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/JetPack.kit" : {
+    "\/dev\/content\/svg\/ForegroundCrater.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/JetPack.html",
+      "oAP" : "\/dev\/content\/svg\/ForegroundCrater.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/Middleground.kit" : {
+    "\/dev\/content\/svg\/SpaceRock1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/Middleground.html",
+      "oAP" : "\/dev\/content\/svg\/SpaceRock1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/SpaceRock2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/SpaceRock2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/SpaceRock3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/SpaceRock3.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -414,7 +430,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-peach",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 640823681.99975395
+    "lastBuiltDate" : 640824132.04003596
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -708,7 +724,7 @@
     "bowerUseExactVersion" : 0,
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
-    "buildEnvironment" : 0,
+    "buildEnvironment" : 1,
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
@@ -853,7 +869,7 @@
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
-      "NODE_ENV:::production"
+      "NODE_ENV:::development"
     ],
     "esLintConfigFileHandlingType" : 0,
     "esLintECMAVersion" : 7,
