@@ -87,11 +87,11 @@
       "oAP" : "\/design\/cow.sketch",
       "oF" : 0
     },
-    "\/design\/MotionGraphics.svg" : {
+    "\/design\/MotionGraphics_Assignment2.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/design\/MotionGraphics.svg",
+      "oAP" : "\/design\/MotionGraphics_Assignment2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -126,7 +126,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/CowJetPack.html",
+      "oAP" : "\/dev\/content\/svg\/CowJetpack.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/ForegroundCrater.kit" : {
@@ -203,6 +203,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/dev\/js\/scripts-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/zoomIn.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/zoomIn-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
