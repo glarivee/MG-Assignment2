@@ -87,11 +87,11 @@
       "oAP" : "\/design\/cow.sketch",
       "oF" : 0
     },
-    "\/design\/MotionGraphics_Assignment2.svg" : {
+    "\/design\/MotionGraphics.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/design\/MotionGraphics_Assignment2.svg",
+      "oAP" : "\/design\/MotionGraphics.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -110,7 +110,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/Background.html",
+      "oAP" : "\/dev\/content\/svg\/background.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/BackgroundMoon.kit" : {
@@ -121,7 +121,7 @@
       "oAP" : "\/dev\/content\/svg\/BackgroundMoon.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/CowJetPack.kit" : {
+    "\/dev\/content\/svg\/CowJetpack.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
@@ -184,6 +184,28 @@
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
+    },
+    "\/dev\/js\/CowJetPack.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/CowJetPack-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/LiftOff.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/LiftOff-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 4,
