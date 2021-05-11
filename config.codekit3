@@ -196,6 +196,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/js\/flight.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/flight-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/dev\/js\/LiftOff.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -203,6 +214,17 @@
       "mi" : 1,
       "oA" : 1,
       "oAP" : "\/dev\/js\/LiftOff-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/planetZoom.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/planetZoom-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -215,6 +237,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
       "oF" : 2,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/SpaceRocks.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/SpaceRocks-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
@@ -485,7 +518,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-peach",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 640824132.04003596
+    "lastBuiltDate" : 642388026.94188297
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
